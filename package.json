@@ -17,6 +17,7 @@
     "test:dev": "jest --watch"
   },
   "dependencies": {
+    "@nuxtjs/robots": "^2.5.0",
     "nuxt": "^2.14.3",
     "nuxt-svg-loader": "^1.2.0"
   },

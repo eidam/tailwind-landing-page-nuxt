@@ -81,7 +81,10 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ['nuxt-svg-loader'],
+  modules: [
+    'nuxt-svg-loader',
+    '@nuxtjs/robots',
+  ],
   purgeCSS: {
     whitelist: ['hidden'],
     whitelistPatterns: [/md:w-[1-6]/]
