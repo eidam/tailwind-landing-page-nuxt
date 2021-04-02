@@ -19,7 +19,7 @@
       </feature-left>
       <feature-right
         headline="Status pages"
-        content="Status pages are a perfect solution for any orginization that wants to inform its customers about the availability of their services. Easily create one and add your monitors, thats it!"
+        content="Status pages are a perfect solution for any organization that wants to inform its customers about the availability of their services. Easily create one and add your monitors, thats it!"
       >
         <img src="~assets/img/information-tab.svg?inline" alt slot="svg" />
       </feature-right>
